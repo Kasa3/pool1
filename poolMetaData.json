@@ -1,6 +1,8 @@
 {
-"name": "WSKS",
-"description": "My pool description",
-"ticker": "WSKS",
-"homepage": "https://twitter.com/Cardano_ISSA"
+    "name": "WSKS",
+    "description": "My pool description",
+    "ticker": "WSKS",
+    "homepage": "https://twitter.com/Cardano_ISSA",
+    "extended": "",
+    "nonce":"1704963214"
 }
